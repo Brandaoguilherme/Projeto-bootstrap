@@ -1,0 +1,9 @@
+Bootstrap - Projeto
+
+-Bootstrap é uma framework que vem ganhando grande destaque no mercado, o seu grande diferencial é a facilidade.
+Outro ponto bem importante é que ela é um framework com um foco no desenvolvimento responsivo e na experiência 
+do usuário no seu celular. É bom resaltar que o Bootstrap tá no mercado desde de 2010, e vem evoluindo e se eu 
+não me engano ele tá na sua versão 4. Essa Framework é muito ligada a experiência do usuário, e seu sistema é 
+baseado no grid e por sua vez é bastante completo outro ponto bem que chama a atenção é a sua capacidade de 
+ultilizar classes para mostrar elementos com facilidade. 
+-Como desvantagem, é bom citar que a Bootstrap não é um website visualmente diferenciado.
